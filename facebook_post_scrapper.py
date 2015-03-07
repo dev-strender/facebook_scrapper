@@ -1,7 +1,7 @@
 #-*- coding: utf-8 -*-
 
-from datetime import datetime
-import facebook
+#from datetime import datetime
+#import facebook
 import urllib2
 import mechanize
 import json
